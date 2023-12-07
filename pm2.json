@@ -3,7 +3,8 @@
         {
             "name": "FTC",
             "script": "npm",
-            "args" : "run prod"
+            "args" : "run prod",
+            "log": "log.log"
         }
     ]
 }
