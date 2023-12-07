@@ -15,7 +15,7 @@ export default {
         })
         fs.writeFile('myjsonfile.json', JSON.stringify(restarts), 'utf8', () => {});
         interaction.reply('Restarting...')
-        exec('pm2 restart HKVACC', (err: any, stdout: any, stderr: any) => {
+        exec('pm2 restart FTC', (err: any, stdout: any, stderr: any) => {
             if (err) {
               console.error(err)
               return interaction.editReply('<@276584774171230211> theres an error')

@@ -1,7 +1,7 @@
 {
-  "name": "HKVACC Bot",
-  "description": "Music and utility bot for https://vathk.com",
-  "repository": "https://github.com/jamieernest/HKVACCBot_TS",
-  "logo": "https://vathk.com/img/homepage/vatsimhk.png",
+  "name": "FTCBee",
+  "description": "Bot for FTC UK Server",
+  "repository": "https://github.com/jamieernest/FTCBee",
+  "logo": "",
   "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
 }

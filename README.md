@@ -1,1 +1,0 @@
-Refactored from JS to TS from https://github.com/jamieernest/HKVACCBot and fork of https://github.com/eritislami/evobot
