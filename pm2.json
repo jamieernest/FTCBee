@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "FTC",
+            "script": "npm",
+            "args" : "run prod"
+        }
+    ]
+}
